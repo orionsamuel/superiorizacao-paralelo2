@@ -1,0 +1,68 @@
+
+===============Saturation Functions Diagnostics===============
+
+System:  Black-oil system.
+Relative permeability input format: Saturation Family I.
+Number of saturation regions: 1
+
+    Excessive chopping detected in report step 0, substep 8
+        Well that failed: PRODU20
+        Well that failed: PRODU20
+        Well that failed: PRODU15
+        Well that failed: PRODU15
+
+    Excessive chopping detected in report step 0, substep 8
+        Well that failed: PRODU15
+        Well that failed: PRODU15
+        Well that failed: PRODU15
+        Well that failed: PRODU26
+
+    Excessive chopping detected in report step 0, substep 9
+        Well that failed: PRODU26
+        Well that failed: PRODU26
+        Well that failed: PRODU26
+
+    Excessive chopping detected in report step 0, substep 9
+
+    Excessive chopping detected in report step 0, substep 9
+        Well that failed: PRODU14
+        Well that failed: PRODU14
+        Well that failed: PRODU17
+        Well that failed: PRODU17
+
+    Excessive chopping detected in report step 0, substep 11
+        Well that failed: PRODU17
+        Well that failed: PRODU17
+
+    Excessive chopping detected in report step 0, substep 11
+
+    Excessive chopping detected in report step 0, substep 12
+
+    Excessive chopping detected in report step 0, substep 13
+
+    Excessive chopping detected in report step 0, substep 13
+        Well that failed: PRODU19
+        Well that failed: PRODU19
+
+    Excessive chopping detected in report step 0, substep 13
+
+    Excessive chopping detected in report step 0, substep 14
+
+    Excessive chopping detected in report step 0, substep 14
+
+    Excessive chopping detected in report step 0, substep 14
+
+    Excessive chopping detected in report step 0, substep 14
+
+    Excessive chopping detected in report step 0, substep 14
+
+    Excessive chopping detected in report step 0, substep 14
+
+    Excessive chopping detected in report step 0, substep 14
+
+    Excessive chopping detected in report step 0, substep 14
+
+    Excessive chopping detected in report step 0, substep 14
+
+    Excessive chopping detected in report step 0, substep 14
+

@@ -1,0 +1,109 @@
+
+===============Saturation Functions Diagnostics===============
+
+System:  Black-oil system.
+Relative permeability input format: Saturation Family I.
+Number of saturation regions: 1
+
+    Excessive chopping detected in report step 0, substep 0
+        Well that failed: PRODU23
+        Well that failed: PRODU23
+        Well that failed: PRODU26
+        Well that failed: PRODU26
+        Well that failed: PRODU26
+        Well that failed: PRODU26
+        Well that failed: PRODU20
+        Well that failed: PRODU20
+        Well that failed: PRODU21
+
+    Excessive chopping detected in report step 0, substep 1
+        Well that failed: PRODU25
+        Well that failed: PRODU25
+        Well that failed: PRODU22
+        Well that failed: PRODU22
+        Well that failed: PRODU19
+        Well that failed: PRODU19
+        Well that failed: PRODU12
+        Well that failed: PRODU12
+        Well that failed: PRODU24
+        Well that failed: PRODU24
+
+    Excessive chopping detected in report step 0, substep 1
+
+    Excessive chopping detected in report step 0, substep 1
+
+    Excessive chopping detected in report step 0, substep 2
+        Well that failed: PRODU2
+        Well that failed: PRODU2
+        Well that failed: PRODU2
+
+    Excessive chopping detected in report step 0, substep 2
+
+    Excessive chopping detected in report step 0, substep 3
+        Well that failed: PRODU7
+        Well that failed: PRODU7
+        Well that failed: PRODU3
+        Well that failed: PRODU3
+        Well that failed: PRODU8
+        Well that failed: PRODU8
+
+    Excessive chopping detected in report step 0, substep 3
+
+    Excessive chopping detected in report step 0, substep 3
+        Well that failed: PRODU15
+        Well that failed: PRODU15
+
+    Excessive chopping detected in report step 0, substep 5
+        Well that failed: PRODU10
+        Well that failed: PRODU10
+        Well that failed: PRODU15
+        Well that failed: PRODU15
+
+    Excessive chopping detected in report step 0, substep 5
+
+    Excessive chopping detected in report step 0, substep 7
+        Well that failed: PRODU4
+        Well that failed: PRODU4
+
+    Excessive chopping detected in report step 0, substep 7
+
+    Excessive chopping detected in report step 0, substep 9
+        Well that failed: PRODU17
+        Well that failed: PRODU17
+
+    Excessive chopping detected in report step 0, substep 9
+
+    Excessive chopping detected in report step 0, substep 12
+
+    Excessive chopping detected in report step 0, substep 13
+
+    Excessive chopping detected in report step 0, substep 13
+
+    Excessive chopping detected in report step 0, substep 14
+        Well that failed: PRODU14
+        Well that failed: PRODU14
+
+    Excessive chopping detected in report step 0, substep 14
+
+    Excessive chopping detected in report step 0, substep 14
+
+    Excessive chopping detected in report step 0, substep 15
+
+    Excessive chopping detected in report step 0, substep 15
+
+    Excessive chopping detected in report step 0, substep 15
+
+    Excessive chopping detected in report step 0, substep 15
+
+    Excessive chopping detected in report step 0, substep 15
+
+    Excessive chopping detected in report step 0, substep 15
+
+    Excessive chopping detected in report step 0, substep 15
+
+    Excessive chopping detected in report step 0, substep 15
+
+    Excessive chopping detected in report step 0, substep 15
+
+    Excessive chopping detected in report step 0, substep 15
+
