@@ -14,7 +14,7 @@ Number of saturation regions: 1
 :   FIELD:           :    :        0.0:        0.0:        0.0:        0.0:      0.000:      0.00:        -nan:        :        : 
 :--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
-:       G:           :    :    36717.4:       45.4:    51226.9:    41380.2:      0.001:      1.40:      0.0009:        :        : 
+:       G:           :    :    36674.9:       44.9:    51028.4:    41313.6:      0.001:      1.39:      0.0009:        :        : 
 :--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
 =================================================== INJECTION REPORT ========================================
@@ -38,7 +38,7 @@ Number of saturation regions: 1
 :   FIELD:           :        :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
 :--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-:       G:           :        :    :      132.8:        0.2:      184.5:      149.0:        0.0:       18.0:        0.0:       18.1: 
+:       G:           :        :    :      132.7:        0.2:      183.9:      148.8:        0.0:       18.0:        0.0:       18.0: 
 :--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
 ======================================================= PRODUCTION REPORT =======================================================
@@ -50,7 +50,7 @@ Number of saturation regions: 1
 :   FIELD:           :    :        0.0:        0.0:        0.0:        0.0:      0.000:      0.00:        -nan:        :        : 
 :--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
-:       G:           :    :    36017.3:       43.9:    50472.0:    40938.1:      0.001:      1.40:      0.0009:        :        : 
+:       G:           :    :    35774.0:       41.8:    50723.8:    40937.0:      0.001:      1.42:      0.0008:        :        : 
 :--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
 =================================================== INJECTION REPORT ========================================
@@ -74,7 +74,7 @@ Number of saturation regions: 1
 :   FIELD:           :        :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
 :--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-:       G:           :        :    :      363.3:        0.4:      507.6:      411.0:        0.0:       50.0:        0.0:       50.1: 
+:       G:           :        :    :      480.7:        0.6:      673.5:      545.1:        0.0:       66.5:        0.0:       66.7: 
 :--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
 ======================================================= PRODUCTION REPORT =======================================================
@@ -86,7 +86,7 @@ Number of saturation regions: 1
 :   FIELD:           :    :        0.0:        0.0:        0.0:        0.0:      0.000:      0.00:        -nan:        :        : 
 :--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
-:       G:           :    :    35410.3:       67.3:    50427.2:    40576.8:      0.002:      1.42:      0.0013:        :        : 
+:       G:           :    :    35509.0:       41.3:    50400.6:    40545.2:      0.001:      1.42:      0.0008:        :        : 
 :--------:-----------:----:-----------:-----------:-----------:-----------:-----------:----------:------------:--------:--------:
 
 =================================================== INJECTION REPORT ========================================
@@ -110,28 +110,39 @@ Number of saturation regions: 1
 :   FIELD:           :        :    :        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0:        0.0: 
 :--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-:       G:           :        :    :      897.3:        1.2:     1262.5:     1020.9:        0.0:      125.0:        0.0:      125.4: 
+:       G:           :        :    :      915.1:        1.1:     1290.4:     1041.4:        0.0:      127.6:        0.0:      127.9: 
 :--------:-----------:--------:----:------------:----------:-----------:-----------:------------:----------:-----------:-----------: 
 
-    Excessive chopping detected in report step 3, substep 8
+    Excessive chopping detected in report step 3, substep 1
+        Well that failed: PRODU18
 
-    Excessive chopping detected in report step 3, substep 10
+    Excessive chopping detected in report step 3, substep 1
 
-    Excessive chopping detected in report step 3, substep 10
+    Excessive chopping detected in report step 3, substep 1
 
-    Excessive chopping detected in report step 3, substep 10
+    Excessive chopping detected in report step 3, substep 1
 
-    Excessive chopping detected in report step 3, substep 10
+    Excessive chopping detected in report step 3, substep 1
 
-    Excessive chopping detected in report step 3, substep 10
+    Excessive chopping detected in report step 3, substep 1
 
-    Excessive chopping detected in report step 3, substep 10
+    Excessive chopping detected in report step 3, substep 3
 
-    Excessive chopping detected in report step 3, substep 10
+    Excessive chopping detected in report step 3, substep 3
 
-    Excessive chopping detected in report step 3, substep 10
+    Excessive chopping detected in report step 3, substep 3
 
-    Excessive chopping detected in report step 3, substep 10
+    Excessive chopping detected in report step 3, substep 3
 
-    Excessive chopping detected in report step 3, substep 10
+    Excessive chopping detected in report step 3, substep 3
+
+    Excessive chopping detected in report step 3, substep 3
+
+    Excessive chopping detected in report step 3, substep 3
+
+    Excessive chopping detected in report step 3, substep 3
+
+    Excessive chopping detected in report step 3, substep 3
+
+    Excessive chopping detected in report step 3, substep 3
 
